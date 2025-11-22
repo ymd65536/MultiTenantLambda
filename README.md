@@ -1,18 +1,3 @@
-# 【AWS】用語を整理しながら学ぶAWS
-
-## はじめに
-
-この記事ではAWSが提供するAmazon Neptuneを学習していく内容となっています。
-主な内容としては実践したときのメモを中心に書きます。（忘れやすいことなど）
-誤りなどがあれば修正していく想定です。
-
-# 【AWS】手を動かして学ぶ
-
-## はじめに
-
-この記事ではMountpoint for Amazon S3(以下、Mountpoint for S3)を使って、EC2にS3バケットをマウントする触る話を書きます。主な内容としては実践したときのメモを中心に書きます。（忘れやすいことなど）
-誤りなどがあれば修正していく想定です。
-
 # 【AWS】検証！AWS Support Automation Workflows（SAW）でEC2を停止する
 
 ## はじめに
@@ -22,6 +7,11 @@
 誤りなどがあれば書き直していく予定です。
 
 今回はAWS Systems Managerが機能として提供しているAWS Support Automation Workflowsを検証してみます。
+
+参考リンク
+
+- [Streamlined multi-tenant application development with tenant isolation mode in AWS Lambda](https://aws.amazon.com/jp/blogs/aws/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/)
+- [Building multi-tenant SaaS applications with AWS Lambda’s new tenant isolation mode](https://aws.amazon.com/jp/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/)
 
 ## AWS CLI インストールと SSO ログイン手順 (Linux環境)
 
